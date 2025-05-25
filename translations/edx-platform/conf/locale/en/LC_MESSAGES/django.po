@@ -17842,7 +17842,7 @@ msgstr ""
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr ""
+msgstr "Explore coursess"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
@@ -23999,8 +23999,3 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
-
-#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:79
-msgid "Explore courses"
-msgstr "hhhhh"
-
