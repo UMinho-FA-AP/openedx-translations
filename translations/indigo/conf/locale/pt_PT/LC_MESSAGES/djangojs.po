@@ -19,40 +19,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.16.0\n"
 
-#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:14
+#: indigo/lms/templates/discovery/course_card.underscore:14
 msgid "Learn More"
 msgstr "Saber Mais"
 
-#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:20
+#: indigo/lms/templates/discovery/course_card.underscore:20
 #, python-format
 msgid "Starts: %(start_date)s"
 msgstr "Começa: %(start_date)s"
 
-#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:29
+#: indigo/lms/templates/discovery/course_card.underscore:29
 msgid "Starts"
 msgstr "Começa"
 
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:16
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:24
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:32
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:16
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:24
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:32
 msgid "Course"
 msgid_plural "Courses"
 msgstr[0] "Curso"
 msgstr[1] "Cursos"
 
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:18
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:18
 msgid "Completed"
 msgstr "Concluído"
 
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:26
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:26
 msgid "In Progress"
 msgstr "Em Progresso"
 
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:34
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:34
 msgid "Remaining"
 msgstr "Restantes"
 
-#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:62
+#: indigo/lms/templates/learner_dashboard/program_card.underscore:62
 #, python-format
 msgid "%(programName)s Home Page."
 msgstr "%(programName)s Página inicial."
