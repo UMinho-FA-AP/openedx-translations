@@ -84,7 +84,7 @@ msgstr "Inscrever-se Agora"
 
 #: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:143
 msgid "View About Page in studio"
-msgstr "Ver Página Sobre no estúdio"
+msgstr "Ver página Sobre no estúdio"
 
 #: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:164
 msgid "Course Number"

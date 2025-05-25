@@ -1,23 +1,23 @@
-# Translations template for PROJECT.
+# English translations for .
 # Copyright (C) 2025 Kriol.IO
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the  project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version:  \n"
 "Report-Msgid-Bugs-To: paiva@kriol.io\n"
-"POT-Creation-Date: 2025-05-25 12:48+0100\n"
+"POT-Creation-Date: 2025-05-25 19:12+0100\n"
 "PO-Revision-Date: 2025-05-25 13:13+0100\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: en\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.16.0\n"
-"X-Generator: Poedit 3.6\n"
 
 #: tutorindigo/templates/indigo/lms/templates/course.html:22
 msgid "Learn More"
@@ -41,6 +41,7 @@ msgid "About"
 msgstr ""
 
 #: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:71
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:72
 #: tutorindigo/templates/indigo/lms/templates/index.html:30
 msgid "Search"
 msgstr ""
@@ -110,8 +111,8 @@ msgstr ""
 
 #: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:229
 msgid ""
-"You must successfully complete {link_start}{prc_display}{link_end} before "
-"you begin this course."
+"You must successfully complete {link_start}{prc_display}{link_end} before"
+" you begin this course."
 msgstr ""
 
 #: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:239
@@ -165,6 +166,20 @@ msgstr ""
 msgid "Courses"
 msgstr ""
 
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:42
+msgid "Advanced Training - Public Administration"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:43
+msgid ""
+"Explore a world of knowledge and enhance your skills with our diverse "
+"range of courses"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:53
+msgid "Filters"
+msgstr ""
+
 #: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:59
 #: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:60
 msgid "Refine Your Search"
@@ -195,8 +210,8 @@ msgstr ""
 
 #: tutorindigo/templates/indigo/lms/templates/header/header.html:74
 msgid ""
-"{begin_strong}Warning:{end_strong} Your browser is not fully supported. We "
-"strongly recommend using {chrome_link} or {ff_link}."
+"{begin_strong}Warning:{end_strong} Your browser is not fully supported. "
+"We strongly recommend using {chrome_link} or {ff_link}."
 msgstr ""
 
 #: tutorindigo/templates/indigo/lms/templates/header/header.html:97
@@ -267,7 +282,6 @@ msgstr ""
 #: tutorindigo/templates/indigo/lms/templates/static_templates/about.html:14
 #: tutorindigo/templates/indigo/lms/templates/static_templates/blog.html:14
 #: tutorindigo/templates/indigo/lms/templates/static_templates/contact.html:14
-#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:14
 #: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:14
 #: tutorindigo/templates/indigo/lms/templates/static_templates/privacy.html:16
 #: tutorindigo/templates/indigo/lms/templates/static_templates/tos.html:14
@@ -287,11 +301,6 @@ msgstr ""
 msgid "Contact"
 msgstr ""
 
-#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:6
-#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:11
-msgid "Donate"
-msgstr ""
-
 #: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:6
 #: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:11
 msgid "Help"
@@ -306,3 +315,10 @@ msgstr ""
 #: tutorindigo/templates/indigo/lms/templates/static_templates/tos.html:11
 msgid "Terms of Service"
 msgstr ""
+
+#~ msgid "Unlock Your Potential: Discover New ll Today!"
+#~ msgstr ""
+
+#~ msgid "Donate"
+#~ msgstr ""
+
