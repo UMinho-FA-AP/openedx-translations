@@ -23999,3 +23999,8 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:79
+msgid "Explore courses"
+msgstr "hhhhh"
+
