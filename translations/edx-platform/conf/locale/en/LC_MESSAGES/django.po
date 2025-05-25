@@ -315,8 +315,8 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/management/commands/recreate_upstream_links.py:48
 msgid ""
-"Recreate links for xblocks under given course keys. For eg. course-v1:"
-"edX+DemoX.1+2014"
+"Recreate links for xblocks under given course keys. For eg. course-v1:edX"
+"+DemoX.1+2014"
 msgstr ""
 
 #: cms/djangoapps/contentstore/management/commands/recreate_upstream_links.py:55
@@ -10976,15 +10976,15 @@ msgstr ""
 
 #: xmodule/course_block.py:422
 msgid ""
-"Enter discussion categories in the following format: \"CategoryName\": "
-"{\"id\": \"i4x-InstitutionName-CourseNumber-course-CourseRun\"}. For "
-"example, one discussion category may be \"Lydian Mode\": {\"id\": \"i4x-"
-"UniversityX-MUS101-course-2015_T1\"}. The \"id\" value for each category "
-"must be unique. In \"id\" values, the only special characters that are "
-"supported are underscore, hyphen, and period. You can also specify a "
-"category as the default for new posts in the Discussion page by setting its "
-"\"default\" attribute to true. For example, \"Lydian Mode\": {\"id\": \"i4x-"
-"UniversityX-MUS101-course-2015_T1\", \"default\": true}."
+"Enter discussion categories in the following format: \"CategoryName\": {\"id"
+"\": \"i4x-InstitutionName-CourseNumber-course-CourseRun\"}. For example, one "
+"discussion category may be \"Lydian Mode\": {\"id\": \"i4x-UniversityX-"
+"MUS101-course-2015_T1\"}. The \"id\" value for each category must be unique. "
+"In \"id\" values, the only special characters that are supported are "
+"underscore, hyphen, and period. You can also specify a category as the "
+"default for new posts in the Discussion page by setting its \"default\" "
+"attribute to true. For example, \"Lydian Mode\": {\"id\": \"i4x-UniversityX-"
+"MUS101-course-2015_T1\", \"default\": true}."
 msgstr ""
 
 #: xmodule/course_block.py:434
@@ -11164,9 +11164,9 @@ msgstr ""
 
 #: xmodule/course_block.py:564
 msgid ""
-"Enter the format for due dates. The default is Mon DD, YYYY. Enter \"%m-%d-"
-"%Y\" for MM-DD-YYYY, \"%d-%m-%Y\" for DD-MM-YYYY, \"%Y-%m-%d\" for YYYY-MM-"
-"DD, or \"%Y-%d-%m\" for YYYY-DD-MM."
+"Enter the format for due dates. The default is Mon DD, YYYY. Enter \"%m-%d-%Y"
+"\" for MM-DD-YYYY, \"%d-%m-%Y\" for DD-MM-YYYY, \"%Y-%m-%d\" for YYYY-MM-DD, "
+"or \"%Y-%d-%m\" for YYYY-DD-MM."
 msgstr ""
 
 #: xmodule/course_block.py:570
@@ -11663,8 +11663,8 @@ msgstr ""
 msgid ""
 "Any additional information about the course that the platform needs or that "
 "allows integration with external systems such as CRM software. Enter a "
-"dictionary of values in JSON format, such as { \"my_custom_setting\": "
-"\"value\", \"other_setting\": \"value\" }"
+"dictionary of values in JSON format, such as { \"my_custom_setting\": \"value"
+"\", \"other_setting\": \"value\" }"
 msgstr ""
 
 #: xmodule/course_block.py:1110
@@ -12161,8 +12161,8 @@ msgid ""
 "Specify the default for how often variable values in a problem are "
 "randomized. This setting should be set to \"never\" unless you plan to "
 "provide a Python script to identify and randomize values in most of the "
-"problems in your course. Valid values are \"always\", \"onreset\", "
-"\"never\", and \"per_student\"."
+"problems in your course. Valid values are \"always\", \"onreset\", \"never"
+"\", and \"per_student\"."
 msgstr ""
 
 #: xmodule/modulestore/inheritance.py:128
@@ -13979,8 +13979,8 @@ msgstr ""
 #: wiki/templates/wiki/includes/anonymous_blocked.html:8
 #, python-format
 msgid ""
-"You need to <a href=\"%(login_url)s\">log in</a> or <a "
-"href=\"%(signup_url)s\">sign up</a> to use this function."
+"You need to <a href=\"%(login_url)s\">log in</a> or <a href=\"%(signup_url)s"
+"\">sign up</a> to use this function."
 msgstr ""
 
 #: wiki/templates/wiki/includes/anonymous_blocked.html:10
@@ -14116,8 +14116,8 @@ msgstr ""
 #: wiki/views/article.py:635
 #, python-format
 msgid ""
-"A new revision was created: Merge between Revision #%(r1)d and Revision "
-"#%(r2)d"
+"A new revision was created: Merge between Revision #%(r1)d and Revision #"
+"%(r2)d"
 msgstr ""
 
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:32
@@ -18884,21 +18884,20 @@ msgid ""
 "from time to time are agreements (collectively, the \"Terms\") between you "
 "and {platform_name}. These Terms are issued under the enterprise product "
 "agreement, member participation agreement, or other direct agreement "
-"governing the purchase of {platform_name} products, if any (the "
-"\"Agreement\"), executed by you or the party on whose behalf you are "
-"accessing or using the APIs and {platform_name}.  In the event that you have "
-"such an Agreement that applies to your use of the APIs, the Agreement will "
-"control in the event of any conflict between it and these Terms. By "
-"accessing or using the APIs, you accept and agree to be legally bound by the "
-"Terms, whether or not you are a registered user. If you are accessing or "
-"using the APIs on behalf of a company, organization or other legal entity, "
-"you are agreeing to these Terms for that entity and representing and "
-"warranting to {platform_name} that you have full authority to accept and "
-"agree to these Terms for such entity, in which case the terms \"you,\" "
-"\"your\" or related terms herein shall refer to such entity on whose behalf "
-"you are accessing or using the APIs. If you do not have such authority or if "
-"you do not understand or do not wish to be bound by the Terms, you should "
-"not use the APIs."
+"governing the purchase of {platform_name} products, if any (the \"Agreement"
+"\"), executed by you or the party on whose behalf you are accessing or using "
+"the APIs and {platform_name}.  In the event that you have such an Agreement "
+"that applies to your use of the APIs, the Agreement will control in the "
+"event of any conflict between it and these Terms. By accessing or using the "
+"APIs, you accept and agree to be legally bound by the Terms, whether or not "
+"you are a registered user. If you are accessing or using the APIs on behalf "
+"of a company, organization or other legal entity, you are agreeing to these "
+"Terms for that entity and representing and warranting to {platform_name} "
+"that you have full authority to accept and agree to these Terms for such "
+"entity, in which case the terms \"you,\" \"your\" or related terms herein "
+"shall refer to such entity on whose behalf you are accessing or using the "
+"APIs. If you do not have such authority or if you do not understand or do "
+"not wish to be bound by the Terms, you should not use the APIs."
 msgstr ""
 
 #: lms/templates/api_admin/terms_of_service.html:17
@@ -23998,4 +23997,30 @@ msgstr ""
 
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
+msgstr ""
+
+#: indigo/lms/templates/courseware/course_about.html:92
+msgid "Already Enrolled"
+msgstr ""
+
+#: indigo/lms/templates/courseware/courses.html:42
+msgid "Advanced Training - Public Administration"
+msgstr ""
+
+#: indigo/lms/templates/courseware/courses.html:43
+msgid ""
+"Explore a world of knowledge and enhance your skills with our diverse range "
+"of courses"
+msgstr ""
+
+#: indigo/lms/templates/courseware/courses.html:53
+msgid "Filters"
+msgstr ""
+
+#: indigo/lms/templates/header/navbar-authenticated.html:51
+msgid "Discover"
+msgstr ""
+
+#: indigo/lms/templates/header/navbar-not-authenticated.html:40
+msgid "Discover courses"
 msgstr ""

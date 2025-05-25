@@ -489,8 +489,8 @@ msgstr ""
 
 #: cms/static/js/models/uploads.js:17
 msgid ""
-"Only <%- fileTypes %> files can be uploaded. Please select a file ending in "
-"<%- (fileExtensions) %> to upload."
+"Only <%- fileTypes %> files can be uploaded. Please select a file ending in <"
+"%- (fileExtensions) %> to upload."
 msgstr ""
 
 #: cms/static/js/models/uploads.js:63
@@ -4028,15 +4028,15 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/student_admin.js:503
 msgid ""
-"Started rescore problem task for problem '<%- problem_id %>' and student "
-"'<%- student_id %>'. Click the 'Show Task Status' button to see the status "
-"of the task."
+"Started rescore problem task for problem '<%- problem_id %>' and student '<"
+"%- student_id %>'. Click the 'Show Task Status' button to see the status of "
+"the task."
 msgstr ""
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
-"Error starting a task to rescore problem '<%- problem_id %>' for student "
-"'<%- student_id %>'. Make sure that the the problem and student identifiers "
+"Error starting a task to rescore problem '<%- problem_id %>' for student '<"
+"%- student_id %>'. Make sure that the the problem and student identifiers "
 "are complete and correct."
 msgstr ""
 
