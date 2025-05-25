@@ -1,0 +1,59 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 Kriol.IO
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: paiva@kriol.io\n"
+"POT-Creation-Date: 2025-05-25 12:51+0100\n"
+"PO-Revision-Date: 2025-05-25 13:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.16.0\n"
+"X-Generator: Poedit 3.6\n"
+
+#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:14
+msgid "Learn More"
+msgstr "Saber Mais"
+
+#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:20
+#, python-format
+msgid "Starts: %(start_date)s"
+msgstr "Começa: %(start_date)s"
+
+#: tutorindigo/templates/indigo/lms/templates/discovery/course_card.underscore:29
+msgid "Starts"
+msgstr "Começa"
+
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:16
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:24
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:32
+msgid "Course"
+msgid_plural "Courses"
+msgstr[0] "Curso"
+msgstr[1] "Cursos"
+
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:18
+msgid "Completed"
+msgstr "Concluído"
+
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:26
+msgid "In Progress"
+msgstr "Em Progresso"
+
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:34
+msgid "Remaining"
+msgstr "Restantes"
+
+#: tutorindigo/templates/indigo/lms/templates/learner_dashboard/program_card.underscore:62
+#, python-format
+msgid "%(programName)s Home Page."
+msgstr "%(programName)s Página inicial."
