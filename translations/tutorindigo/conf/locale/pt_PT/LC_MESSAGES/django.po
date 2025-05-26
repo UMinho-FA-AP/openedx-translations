@@ -319,7 +319,7 @@ msgstr "Ajuda"
 #: indigo/lms/templates/static_templates/privacy.html:8
 #: indigo/lms/templates/static_templates/privacy.html:13
 msgid "Privacy Policy"
-msgstr "Política de Privacidade"
+msgstr "Política de Privacidadeee"
 
 #: indigo/lms/templates/static_templates/tos.html:6
 #: indigo/lms/templates/static_templates/tos.html:11
